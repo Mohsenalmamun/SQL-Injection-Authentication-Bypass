@@ -14,7 +14,7 @@ XPATH Injection Authentication Bypass:
 'or contains(.,'adm') or'
 'or position()=2 or'
 admin' or '
-admin' or '1'='2```
+admin' or '1'='2
 
 LDAP Injection Authentication Bypass:
 *
