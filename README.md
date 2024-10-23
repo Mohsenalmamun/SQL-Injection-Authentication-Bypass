@@ -1,5 +1,8 @@
 # SQL-Injection-Authentication-Bypass
 Xpath Injection, LDAP Injection, SQL Injection Authentication Bypass
+
+All content provided by a education purposes only and  use your own risk, I don't any responsibility 
+for illegal work.
 ```
 XPATH Injection Authentication Bypass:
 ' or '1'='1
